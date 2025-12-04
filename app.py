@@ -1,5 +1,4 @@
 import bottle
-import routes
 
 app = bottle.default_app()
 

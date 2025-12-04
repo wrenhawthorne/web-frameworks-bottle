@@ -1,3 +1,3 @@
-window.addEventListener('load', (event) => {
-    alert("Oh no!")
-})
+// window.addEventListener('load', (event) => {
+//     alert("Oh no!")
+// })

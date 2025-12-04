@@ -1,8 +1,7 @@
 import bottle
 import unittest
 from boddle import boddle
-from routes import home, about, server_static
-
+from routes import home, about
 
 class TestHome(unittest.TestCase):
     def test_home_exists(self):
